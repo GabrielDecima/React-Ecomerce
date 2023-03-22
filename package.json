@@ -2,7 +2,7 @@
   "name": "proyectodecima",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gabrieldecima.github.io/React-34755-Decima/",
+  "homepage": "https://gabrieldecima.github.io/React-Ecomerce",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-regular-svg-icons": "^6.3.0",
@@ -24,7 +24,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build ",
     "start": "react-scripts start",
     "build": "react-scripts build",
