@@ -49,7 +49,7 @@ useEffect(() => {
 
  setcarritoLocal(prodCarrito)
 
-}, []);
+}, [carritoLocal]);
 
 
 
@@ -59,7 +59,7 @@ return (
         showConfirmButton: true,
         icon: 'error',
         title: 'No existen productos en el carrito',
-        confirmButtonText: `<a class="bonton-Alert" href="/">Volver al inicio<a/>`,
+        confirmButtonText: `<a class="bonton-Alert" href="/React-Ecomerce/">Volver al inicio<a/>`,
         allowEscapeKey:false,
         allowEnterKey:false,
         allowOutsideClick:false,   
@@ -78,18 +78,3 @@ export default Carrito;
 
 
 
-
-// const cantidadCarrito =()=>{
-
-//   let aux = 0;
-//   let cantidadtotal=0;
-//  for (let index = 0; index < carrito.length; index++) {
-
-//   aux = aux + carrito[index].cantidad;
-// }
-// cantidadtotal = aux;
-// setmostrarTot(cantidadtotal)
-
-// }
-
-// console.log(mostrarTot)
