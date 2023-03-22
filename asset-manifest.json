@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Ecomerce/static/css/main.5ad7ac00.css",
+    "main.js": "/React-Ecomerce/static/js/main.ac9e2507.js",
+    "static/media/quienes-somos.jpg": "/React-Ecomerce/static/media/quienes-somos.d1798d329593237f8145.jpg",
+    "index.html": "/React-Ecomerce/index.html",
+    "main.5ad7ac00.css.map": "/React-Ecomerce/static/css/main.5ad7ac00.css.map",
+    "main.ac9e2507.js.map": "/React-Ecomerce/static/js/main.ac9e2507.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ad7ac00.css",
+    "static/js/main.ac9e2507.js"
+  ]
+}
