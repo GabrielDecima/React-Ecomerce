@@ -21,7 +21,7 @@ const App = () => {
                 <NavBar/>
                 
               <Routes>
-                <Route path="/" element={<Home/>} />
+                <Route path="/React-Ecomerce/" element={<Home/>} />
                 <Route path="/producto/:id" element={<ItemListContainer/>} />
                 <Route path="/about" element={<About/>}/>
                 <Route path="/contacto" element={<Contacto/>} />
