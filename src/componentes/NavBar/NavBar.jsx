@@ -27,7 +27,7 @@ const NavBar = () => {
 
 
         <li className="nav-item contenedor-nav li-nav">
-          <Link className="nav-link active" to="/"><button className='btn icon'> Home</button></Link>
+          <Link className="nav-link active" to="/React-Ecomerce/"><button className='btn icon'> Home</button></Link>
           
         </li>
        
