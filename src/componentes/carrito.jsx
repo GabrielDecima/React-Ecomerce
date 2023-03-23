@@ -59,7 +59,7 @@ return (
         showConfirmButton: true,
         icon: 'error',
         title: 'No existen productos en el carrito',
-        confirmButtonText: `<a class="bonton-Alert" href="/React-Ecomerce/">Volver al inicio<a/>`,
+        confirmButtonText: `<a class="bonton-Alert" href="/">Volver al inicio<a/>`,
         allowEscapeKey:false,
         allowEnterKey:false,
         allowOutsideClick:false,   
