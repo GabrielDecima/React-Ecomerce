@@ -32,11 +32,11 @@ const NavBar = () => {
         </li>
        
         <li className="nav-item contenedor-nav li-nav">
-          <Link className="nav-link" to="/contacto"><button className='btn icon'> Contacto</button> </Link>
+          <Link className="nav-link" to="React-Ecomerce/contacto"><button className='btn icon'> Contacto</button> </Link>
         </li>
  
         <li className="nav-item contenedor-nav li-nav">
-          <Link className="nav-link" to="/about"><button className='btn icon'>About</button> </Link>
+          <Link className="nav-link" to="React-Ecomerce/about"><button className='btn icon'>About</button> </Link>
         </li>
 
         <Dropdown/>
